@@ -13,6 +13,9 @@
 *.tar.gz
 *.rar
 
+# Logs
+logs/
+
 ### IntelliJ
 # General
 .idea/

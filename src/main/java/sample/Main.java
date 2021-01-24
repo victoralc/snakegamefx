@@ -6,15 +6,12 @@ import com.almasb.fxgl.app.scene.SceneFactory;
 import com.almasb.fxgl.entity.Entity;
 import com.almasb.fxgl.entity.SpawnData;
 import com.almasb.fxgl.input.UserAction;
-import com.almasb.fxgl.pathfinding.CellMoveComponent;
 import com.almasb.fxgl.pathfinding.CellState;
 import com.almasb.fxgl.pathfinding.astar.AStarCell;
 import com.almasb.fxgl.pathfinding.astar.AStarGrid;
 import javafx.scene.input.KeyCode;
 import sample.board.SnakeFactory;
 import sample.board.components.Snake;
-
-import java.util.List;
 
 import static com.almasb.fxgl.dsl.FXGLForKtKt.*;
 
